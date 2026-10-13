@@ -1,0 +1,1161 @@
+Week 2 / start of week 3 - FILE-LEVEL verification
+Unity was not installed or run for this verification.
+Unity import, C# compilation, and Play Mode still require the classroom editor.
+
+PASS: Unique asset GUID: Assets\Kenney-Pixel-Platformer-License.txt.meta
+PASS: Asset accompanies metadata: Assets\Kenney-Pixel-Platformer-License.txt.meta
+PASS: Unique asset GUID: Assets\Prefabs.meta
+PASS: Asset accompanies metadata: Assets\Prefabs.meta
+PASS: Unique asset GUID: Assets\Scenes.meta
+PASS: Asset accompanies metadata: Assets\Scenes.meta
+PASS: Unique asset GUID: Assets\Scripts.meta
+PASS: Asset accompanies metadata: Assets\Scripts.meta
+PASS: Unique asset GUID: Assets\Settings.meta
+PASS: Asset accompanies metadata: Assets\Settings.meta
+PASS: Unique asset GUID: Assets\Sprites.meta
+PASS: Asset accompanies metadata: Assets\Sprites.meta
+PASS: Unique asset GUID: Assets\Tiles.meta
+PASS: Asset accompanies metadata: Assets\Tiles.meta
+PASS: Unique asset GUID: Assets\Welcome.meta
+PASS: Asset accompanies metadata: Assets\Welcome.meta
+PASS: Unique asset GUID: Assets\Prefabs\Walker.prefab.meta
+PASS: Asset accompanies metadata: Assets\Prefabs\Walker.prefab.meta
+PASS: Unique asset GUID: Assets\Scenes\MovementLab.unity.meta
+PASS: Asset accompanies metadata: Assets\Scenes\MovementLab.unity.meta
+PASS: Unique asset GUID: Assets\Scenes\SampleScene.unity.meta
+PASS: Asset accompanies metadata: Assets\Scenes\SampleScene.unity.meta
+PASS: Unique asset GUID: Assets\Scripts\WalkerController.cs.meta
+PASS: Asset accompanies metadata: Assets\Scripts\WalkerController.cs.meta
+PASS: Unique asset GUID: Assets\Settings\DefaultVolumeProfile.asset.meta
+PASS: Asset accompanies metadata: Assets\Settings\DefaultVolumeProfile.asset.meta
+PASS: Unique asset GUID: Assets\Settings\InputSystem_Actions.inputactions.meta
+PASS: Asset accompanies metadata: Assets\Settings\InputSystem_Actions.inputactions.meta
+PASS: Unique asset GUID: Assets\Settings\Lit2DSceneTemplate.scenetemplate.meta
+PASS: Asset accompanies metadata: Assets\Settings\Lit2DSceneTemplate.scenetemplate.meta
+PASS: Unique asset GUID: Assets\Settings\Renderer2D.asset.meta
+PASS: Asset accompanies metadata: Assets\Settings\Renderer2D.asset.meta
+PASS: Unique asset GUID: Assets\Settings\Scenes.meta
+PASS: Asset accompanies metadata: Assets\Settings\Scenes.meta
+PASS: Unique asset GUID: Assets\Settings\UniversalRenderPipelineGlobalSettings.asset.meta
+PASS: Asset accompanies metadata: Assets\Settings\UniversalRenderPipelineGlobalSettings.asset.meta
+PASS: Unique asset GUID: Assets\Settings\UniversalRP.asset.meta
+PASS: Asset accompanies metadata: Assets\Settings\UniversalRP.asset.meta
+PASS: Unique asset GUID: Assets\Settings\Scenes\URP2DSceneTemplate.unity.meta
+PASS: Asset accompanies metadata: Assets\Settings\Scenes\URP2DSceneTemplate.unity.meta
+PASS: Unique asset GUID: Assets\Sprites\tilemap-characters_packed.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\tilemap-characters_packed.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Backgrounds.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Backgrounds.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Characters.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Characters.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0000.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0000.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0001.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0001.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0002.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0002.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0003.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0003.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0004.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0004.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0005.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0005.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0006.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0006.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0007.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0007.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0008.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0008.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0009.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0009.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0010.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0010.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0011.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0011.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0012.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0012.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0013.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0013.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0014.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0014.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0015.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0015.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0016.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0016.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0017.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0017.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0018.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0018.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0019.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0019.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0020.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0020.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0021.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0021.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0022.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0022.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0023.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0023.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0024.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0024.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0025.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0025.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0026.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0026.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0027.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0027.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0028.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0028.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0029.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0029.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0030.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0030.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0031.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0031.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0032.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0032.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0033.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0033.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0034.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0034.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0035.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0035.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0036.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0036.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0037.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0037.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0038.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0038.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0039.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0039.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0040.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0040.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0041.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0041.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0042.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0042.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0043.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0043.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0044.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0044.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0045.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0045.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0046.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0046.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0047.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0047.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0048.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0048.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0049.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0049.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0050.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0050.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0051.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0051.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0052.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0052.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0053.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0053.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0054.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0054.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0055.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0055.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0056.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0056.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0057.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0057.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0058.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0058.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0059.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0059.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0060.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0060.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0061.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0061.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0062.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0062.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0063.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0063.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0064.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0064.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0065.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0065.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0066.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0066.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0067.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0067.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0068.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0068.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0069.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0069.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0070.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0070.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0071.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0071.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0072.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0072.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0073.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0073.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0074.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0074.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0075.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0075.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0076.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0076.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0077.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0077.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0078.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0078.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0079.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0079.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0080.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0080.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0081.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0081.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0082.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0082.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0083.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0083.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0084.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0084.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0085.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0085.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0086.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0086.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0087.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0087.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0088.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0088.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0089.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0089.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0090.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0090.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0091.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0091.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0092.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0092.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0093.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0093.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0094.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0094.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0095.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0095.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0096.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0096.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0097.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0097.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0098.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0098.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0099.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0099.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0100.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0100.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0101.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0101.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0102.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0102.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0103.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0103.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0104.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0104.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0105.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0105.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0106.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0106.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0107.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0107.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0108.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0108.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0109.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0109.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0110.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0110.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0111.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0111.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0112.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0112.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0113.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0113.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0114.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0114.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0115.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0115.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0116.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0116.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0117.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0117.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0118.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0118.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0119.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0119.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0120.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0120.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0121.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0121.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0122.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0122.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0123.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0123.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0124.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0124.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0125.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0125.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0126.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0126.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0127.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0127.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0128.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0128.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0129.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0129.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0130.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0130.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0131.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0131.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0132.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0132.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0133.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0133.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0134.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0134.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0135.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0135.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0136.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0136.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0137.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0137.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0138.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0138.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0139.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0139.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0140.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0140.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0141.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0141.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0142.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0142.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0143.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0143.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0144.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0144.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0145.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0145.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0146.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0146.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0147.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0147.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0148.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0148.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0149.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0149.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0150.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0150.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0151.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0151.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0152.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0152.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0153.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0153.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0154.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0154.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0155.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0155.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0156.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0156.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0157.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0157.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0158.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0158.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0159.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0159.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0160.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0160.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0161.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0161.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0162.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0162.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0163.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0163.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0164.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0164.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0165.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0165.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0166.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0166.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0167.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0167.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0168.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0168.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0169.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0169.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0170.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0170.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0171.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0171.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0172.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0172.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0173.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0173.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0174.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0174.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0175.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0175.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0176.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0176.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0177.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0177.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0178.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0178.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\tile_0179.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\tile_0179.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Backgrounds\tile_0000.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Backgrounds\tile_0000.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Backgrounds\tile_0001.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Backgrounds\tile_0001.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Backgrounds\tile_0002.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Backgrounds\tile_0002.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Backgrounds\tile_0003.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Backgrounds\tile_0003.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Backgrounds\tile_0004.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Backgrounds\tile_0004.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Backgrounds\tile_0005.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Backgrounds\tile_0005.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Backgrounds\tile_0006.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Backgrounds\tile_0006.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Backgrounds\tile_0007.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Backgrounds\tile_0007.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Backgrounds\tile_0008.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Backgrounds\tile_0008.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Backgrounds\tile_0009.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Backgrounds\tile_0009.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Backgrounds\tile_0010.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Backgrounds\tile_0010.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Backgrounds\tile_0011.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Backgrounds\tile_0011.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Backgrounds\tile_0012.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Backgrounds\tile_0012.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Backgrounds\tile_0013.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Backgrounds\tile_0013.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Backgrounds\tile_0014.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Backgrounds\tile_0014.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Backgrounds\tile_0015.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Backgrounds\tile_0015.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Backgrounds\tile_0016.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Backgrounds\tile_0016.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Backgrounds\tile_0017.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Backgrounds\tile_0017.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Backgrounds\tile_0018.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Backgrounds\tile_0018.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Backgrounds\tile_0019.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Backgrounds\tile_0019.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Backgrounds\tile_0020.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Backgrounds\tile_0020.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Backgrounds\tile_0021.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Backgrounds\tile_0021.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Backgrounds\tile_0022.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Backgrounds\tile_0022.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Backgrounds\tile_0023.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Backgrounds\tile_0023.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Characters\tile_0000.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Characters\tile_0000.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Characters\tile_0001.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Characters\tile_0001.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Characters\tile_0002.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Characters\tile_0002.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Characters\tile_0003.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Characters\tile_0003.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Characters\tile_0004.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Characters\tile_0004.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Characters\tile_0005.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Characters\tile_0005.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Characters\tile_0006.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Characters\tile_0006.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Characters\tile_0007.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Characters\tile_0007.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Characters\tile_0008.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Characters\tile_0008.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Characters\tile_0009.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Characters\tile_0009.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Characters\tile_0010.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Characters\tile_0010.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Characters\tile_0011.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Characters\tile_0011.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Characters\tile_0012.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Characters\tile_0012.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Characters\tile_0013.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Characters\tile_0013.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Characters\tile_0014.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Characters\tile_0014.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Characters\tile_0015.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Characters\tile_0015.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Characters\tile_0016.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Characters\tile_0016.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Characters\tile_0017.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Characters\tile_0017.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Characters\tile_0018.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Characters\tile_0018.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Characters\tile_0019.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Characters\tile_0019.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Characters\tile_0020.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Characters\tile_0020.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Characters\tile_0021.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Characters\tile_0021.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Characters\tile_0022.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Characters\tile_0022.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Characters\tile_0023.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Characters\tile_0023.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Characters\tile_0024.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Characters\tile_0024.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Characters\tile_0025.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Characters\tile_0025.png.meta
+PASS: Unique asset GUID: Assets\Sprites\Tiles\Characters\tile_0026.png.meta
+PASS: Asset accompanies metadata: Assets\Sprites\Tiles\Characters\tile_0026.png.meta
+PASS: Unique asset GUID: Assets\Tiles\PlatformerPalette.prefab.meta
+PASS: Asset accompanies metadata: Assets\Tiles\PlatformerPalette.prefab.meta
+PASS: Unique asset GUID: Assets\Tiles\tile_0000.asset.meta
+PASS: Asset accompanies metadata: Assets\Tiles\tile_0000.asset.meta
+PASS: Unique asset GUID: Assets\Tiles\tile_0001.asset.meta
+PASS: Asset accompanies metadata: Assets\Tiles\tile_0001.asset.meta
+PASS: Unique asset GUID: Assets\Tiles\tile_0002.asset.meta
+PASS: Asset accompanies metadata: Assets\Tiles\tile_0002.asset.meta
+PASS: Unique asset GUID: Assets\Tiles\tile_0003.asset.meta
+PASS: Asset accompanies metadata: Assets\Tiles\tile_0003.asset.meta
+PASS: Unique asset GUID: Assets\Tiles\tile_0009.asset.meta
+PASS: Asset accompanies metadata: Assets\Tiles\tile_0009.asset.meta
+PASS: Unique asset GUID: Assets\Tiles\tile_0010.asset.meta
+PASS: Asset accompanies metadata: Assets\Tiles\tile_0010.asset.meta
+PASS: Unique asset GUID: Assets\Tiles\tile_0011.asset.meta
+PASS: Asset accompanies metadata: Assets\Tiles\tile_0011.asset.meta
+PASS: Unique asset GUID: Assets\Tiles\tile_0012.asset.meta
+PASS: Asset accompanies metadata: Assets\Tiles\tile_0012.asset.meta
+PASS: Unique asset GUID: Assets\Tiles\tile_0013.asset.meta
+PASS: Asset accompanies metadata: Assets\Tiles\tile_0013.asset.meta
+PASS: Unique asset GUID: Assets\Tiles\tile_0014.asset.meta
+PASS: Asset accompanies metadata: Assets\Tiles\tile_0014.asset.meta
+PASS: Unique asset GUID: Assets\Tiles\tile_0015.asset.meta
+PASS: Asset accompanies metadata: Assets\Tiles\tile_0015.asset.meta
+PASS: Unique asset GUID: Assets\Welcome\2d-template.png.meta
+PASS: Asset accompanies metadata: Assets\Welcome\2d-template.png.meta
+PASS: Unique asset GUID: Assets\Welcome\NewWelcomePage.asset.meta
+PASS: Asset accompanies metadata: Assets\Welcome\NewWelcomePage.asset.meta
+PASS: Unique asset GUID: Assets\Welcome\TutorialProjectSettings.asset.meta
+PASS: Asset accompanies metadata: Assets\Welcome\TutorialProjectSettings.asset.meta
+PASS: Unique asset GUID: Assets\Welcome\Unity.2D.Welcome.asmdef.meta
+PASS: Asset accompanies metadata: Assets\Welcome\Unity.2D.Welcome.asmdef.meta
+PASS: Unique asset GUID: Assets\Welcome\Welcome2DScript.asset.meta
+PASS: Asset accompanies metadata: Assets\Welcome\Welcome2DScript.asset.meta
+PASS: Unique asset GUID: Assets\Welcome\Welcome2DScript.cs.meta
+PASS: Asset accompanies metadata: Assets\Welcome\Welcome2DScript.cs.meta
+PASS: Metadata accompanies asset: Assets\Kenney-Pixel-Platformer-License.txt
+PASS: Metadata accompanies asset: Assets\Prefabs\Walker.prefab
+PASS: Metadata accompanies asset: Assets\Scenes\MovementLab.unity
+PASS: Metadata accompanies asset: Assets\Scenes\SampleScene.unity
+PASS: Metadata accompanies asset: Assets\Scripts\WalkerController.cs
+PASS: Metadata accompanies asset: Assets\Settings\DefaultVolumeProfile.asset
+PASS: Metadata accompanies asset: Assets\Settings\InputSystem_Actions.inputactions
+PASS: Metadata accompanies asset: Assets\Settings\Lit2DSceneTemplate.scenetemplate
+PASS: Metadata accompanies asset: Assets\Settings\Renderer2D.asset
+PASS: Metadata accompanies asset: Assets\Settings\UniversalRenderPipelineGlobalSettings.asset
+PASS: Metadata accompanies asset: Assets\Settings\UniversalRP.asset
+PASS: Metadata accompanies asset: Assets\Settings\Scenes\URP2DSceneTemplate.unity
+PASS: Metadata accompanies asset: Assets\Sprites\tilemap-characters_packed.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0000.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0001.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0002.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0003.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0004.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0005.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0006.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0007.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0008.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0009.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0010.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0011.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0012.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0013.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0014.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0015.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0016.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0017.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0018.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0019.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0020.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0021.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0022.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0023.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0024.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0025.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0026.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0027.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0028.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0029.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0030.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0031.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0032.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0033.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0034.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0035.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0036.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0037.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0038.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0039.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0040.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0041.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0042.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0043.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0044.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0045.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0046.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0047.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0048.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0049.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0050.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0051.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0052.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0053.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0054.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0055.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0056.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0057.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0058.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0059.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0060.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0061.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0062.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0063.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0064.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0065.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0066.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0067.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0068.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0069.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0070.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0071.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0072.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0073.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0074.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0075.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0076.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0077.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0078.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0079.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0080.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0081.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0082.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0083.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0084.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0085.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0086.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0087.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0088.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0089.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0090.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0091.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0092.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0093.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0094.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0095.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0096.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0097.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0098.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0099.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0100.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0101.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0102.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0103.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0104.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0105.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0106.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0107.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0108.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0109.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0110.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0111.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0112.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0113.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0114.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0115.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0116.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0117.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0118.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0119.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0120.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0121.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0122.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0123.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0124.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0125.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0126.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0127.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0128.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0129.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0130.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0131.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0132.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0133.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0134.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0135.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0136.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0137.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0138.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0139.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0140.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0141.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0142.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0143.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0144.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0145.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0146.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0147.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0148.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0149.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0150.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0151.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0152.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0153.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0154.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0155.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0156.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0157.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0158.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0159.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0160.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0161.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0162.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0163.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0164.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0165.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0166.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0167.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0168.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0169.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0170.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0171.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0172.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0173.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0174.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0175.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0176.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0177.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0178.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\tile_0179.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Backgrounds\tile_0000.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Backgrounds\tile_0001.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Backgrounds\tile_0002.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Backgrounds\tile_0003.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Backgrounds\tile_0004.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Backgrounds\tile_0005.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Backgrounds\tile_0006.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Backgrounds\tile_0007.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Backgrounds\tile_0008.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Backgrounds\tile_0009.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Backgrounds\tile_0010.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Backgrounds\tile_0011.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Backgrounds\tile_0012.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Backgrounds\tile_0013.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Backgrounds\tile_0014.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Backgrounds\tile_0015.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Backgrounds\tile_0016.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Backgrounds\tile_0017.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Backgrounds\tile_0018.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Backgrounds\tile_0019.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Backgrounds\tile_0020.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Backgrounds\tile_0021.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Backgrounds\tile_0022.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Backgrounds\tile_0023.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Characters\tile_0000.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Characters\tile_0001.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Characters\tile_0002.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Characters\tile_0003.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Characters\tile_0004.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Characters\tile_0005.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Characters\tile_0006.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Characters\tile_0007.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Characters\tile_0008.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Characters\tile_0009.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Characters\tile_0010.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Characters\tile_0011.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Characters\tile_0012.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Characters\tile_0013.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Characters\tile_0014.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Characters\tile_0015.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Characters\tile_0016.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Characters\tile_0017.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Characters\tile_0018.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Characters\tile_0019.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Characters\tile_0020.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Characters\tile_0021.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Characters\tile_0022.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Characters\tile_0023.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Characters\tile_0024.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Characters\tile_0025.png
+PASS: Metadata accompanies asset: Assets\Sprites\Tiles\Characters\tile_0026.png
+PASS: Metadata accompanies asset: Assets\Tiles\PlatformerPalette.prefab
+PASS: Metadata accompanies asset: Assets\Tiles\tile_0000.asset
+PASS: Metadata accompanies asset: Assets\Tiles\tile_0001.asset
+PASS: Metadata accompanies asset: Assets\Tiles\tile_0002.asset
+PASS: Metadata accompanies asset: Assets\Tiles\tile_0003.asset
+PASS: Metadata accompanies asset: Assets\Tiles\tile_0009.asset
+PASS: Metadata accompanies asset: Assets\Tiles\tile_0010.asset
+PASS: Metadata accompanies asset: Assets\Tiles\tile_0011.asset
+PASS: Metadata accompanies asset: Assets\Tiles\tile_0012.asset
+PASS: Metadata accompanies asset: Assets\Tiles\tile_0013.asset
+PASS: Metadata accompanies asset: Assets\Tiles\tile_0014.asset
+PASS: Metadata accompanies asset: Assets\Tiles\tile_0015.asset
+PASS: Metadata accompanies asset: Assets\Welcome\2d-template.png
+PASS: Metadata accompanies asset: Assets\Welcome\NewWelcomePage.asset
+PASS: Metadata accompanies asset: Assets\Welcome\TutorialProjectSettings.asset
+PASS: Metadata accompanies asset: Assets\Welcome\Unity.2D.Welcome.asmdef
+PASS: Metadata accompanies asset: Assets\Welcome\Welcome2DScript.asset
+PASS: Metadata accompanies asset: Assets\Welcome\Welcome2DScript.cs
+PASS: Local reference 319246711 in Assets/Scenes/MovementLab.unity
+PASS: Local reference 319246710 in Assets/Scenes/MovementLab.unity
+PASS: Local reference 319246709 in Assets/Scenes/MovementLab.unity
+PASS: Local reference 319246708 in Assets/Scenes/MovementLab.unity
+PASS: Local reference 319246708 in Assets/Scenes/MovementLab.unity
+PASS: Local reference 319246708 in Assets/Scenes/MovementLab.unity
+PASS: Local reference 1001 in Assets/Scenes/MovementLab.unity
+PASS: Local reference 1002 in Assets/Scenes/MovementLab.unity
+PASS: Local reference 1000 in Assets/Scenes/MovementLab.unity
+PASS: Local reference 2001 in Assets/Scenes/MovementLab.unity
+PASS: Local reference 1000 in Assets/Scenes/MovementLab.unity
+PASS: Local reference 2001 in Assets/Scenes/MovementLab.unity
+PASS: Local reference 2002 in Assets/Scenes/MovementLab.unity
+PASS: Local reference 2003 in Assets/Scenes/MovementLab.unity
+PASS: Local reference 2004 in Assets/Scenes/MovementLab.unity
+PASS: Local reference 2005 in Assets/Scenes/MovementLab.unity
+PASS: Local reference 2006 in Assets/Scenes/MovementLab.unity
+PASS: Local reference 2000 in Assets/Scenes/MovementLab.unity
+PASS: Local reference 1001 in Assets/Scenes/MovementLab.unity
+PASS: Local reference 2000 in Assets/Scenes/MovementLab.unity
+PASS: External asset reference in Assets/Scenes/MovementLab.unity: 2684fe9bbd2862d45a7519bb1f19d310
+PASS: External serialized object reference: Assets\Tiles\tile_0001.asset
+PASS: External asset reference in Assets/Scenes/MovementLab.unity: adcc55e632d00d34bbce677bbedd256f
+PASS: External serialized object reference: Assets\Tiles\tile_0002.asset
+PASS: External asset reference in Assets/Scenes/MovementLab.unity: 9f09176b940fd0349bca5c80fc2d670d
+PASS: External serialized object reference: Assets\Tiles\tile_0003.asset
+PASS: External asset reference in Assets/Scenes/MovementLab.unity: 03b9ddfb74407f742bfc7a68a1b81d7a
+PASS: External serialized object reference: Assets\Tiles\tile_0009.asset
+PASS: External asset reference in Assets/Scenes/MovementLab.unity: 6ba27860b3abe2d4cbb65b04349396f6
+PASS: Sprite file ID reference: Assets\Sprites\Tiles\tile_0001.png
+PASS: External asset reference in Assets/Scenes/MovementLab.unity: 56d73dbf24a7c4e4f8ba188ff9d1cb0c
+PASS: Sprite file ID reference: Assets\Sprites\Tiles\tile_0002.png
+PASS: External asset reference in Assets/Scenes/MovementLab.unity: 593186413f11b0f4e9efc4decedefc38
+PASS: Sprite file ID reference: Assets\Sprites\Tiles\tile_0003.png
+PASS: External asset reference in Assets/Scenes/MovementLab.unity: 00b88eb84cde2c843be6f9fda391da36
+PASS: Sprite file ID reference: Assets\Sprites\Tiles\tile_0009.png
+PASS: Local reference 2000 in Assets/Scenes/MovementLab.unity
+PASS: Local reference 2000 in Assets/Scenes/MovementLab.unity
+PASS: Local reference 2000 in Assets/Scenes/MovementLab.unity
+PASS: Local reference 2000 in Assets/Scenes/MovementLab.unity
+PASS: Local reference 2000 in Assets/Scenes/MovementLab.unity
+PASS: External asset reference in Assets/Scenes/MovementLab.unity: 9dc7feb3ccc045b4ac949b14f9407067
+PASS: External serialized object reference: Assets\Prefabs\Walker.prefab
+PASS: External asset reference in Assets/Scenes/MovementLab.unity: 9dc7feb3ccc045b4ac949b14f9407067
+PASS: External serialized object reference: Assets\Prefabs\Walker.prefab
+PASS: External asset reference in Assets/Scenes/MovementLab.unity: 9dc7feb3ccc045b4ac949b14f9407067
+PASS: External serialized object reference: Assets\Prefabs\Walker.prefab
+PASS: External asset reference in Assets/Scenes/MovementLab.unity: 9dc7feb3ccc045b4ac949b14f9407067
+PASS: External serialized object reference: Assets\Prefabs\Walker.prefab
+PASS: External asset reference in Assets/Scenes/MovementLab.unity: 9dc7feb3ccc045b4ac949b14f9407067
+PASS: External serialized object reference: Assets\Prefabs\Walker.prefab
+PASS: External asset reference in Assets/Scenes/MovementLab.unity: 9dc7feb3ccc045b4ac949b14f9407067
+PASS: External serialized object reference: Assets\Prefabs\Walker.prefab
+PASS: External asset reference in Assets/Scenes/MovementLab.unity: 9dc7feb3ccc045b4ac949b14f9407067
+PASS: External serialized object reference: Assets\Prefabs\Walker.prefab
+PASS: External asset reference in Assets/Scenes/MovementLab.unity: 9dc7feb3ccc045b4ac949b14f9407067
+PASS: External serialized object reference: Assets\Prefabs\Walker.prefab
+PASS: External asset reference in Assets/Scenes/MovementLab.unity: 9dc7feb3ccc045b4ac949b14f9407067
+PASS: External serialized object reference: Assets\Prefabs\Walker.prefab
+PASS: Local reference 3000 in Assets/Scenes/MovementLab.unity
+PASS: Local reference 319246711 in Assets/Scenes/MovementLab.unity
+PASS: Local reference 1001 in Assets/Scenes/MovementLab.unity
+PASS: Local reference 3001 in Assets/Scenes/MovementLab.unity
+PASS: Local reference 400000 in Assets/Prefabs/Walker.prefab
+PASS: Local reference 21200000 in Assets/Prefabs/Walker.prefab
+PASS: Local reference 5000000 in Assets/Prefabs/Walker.prefab
+PASS: Local reference 6100000 in Assets/Prefabs/Walker.prefab
+PASS: Local reference 11400000 in Assets/Prefabs/Walker.prefab
+PASS: Local reference 100000 in Assets/Prefabs/Walker.prefab
+PASS: Local reference 100000 in Assets/Prefabs/Walker.prefab
+PASS: External asset reference in Assets/Prefabs/Walker.prefab: 7ec659e91765f224e9385355dd6adcf3
+PASS: Sprite file ID reference: Assets\Sprites\tilemap-characters_packed.png
+PASS: Local reference 100000 in Assets/Prefabs/Walker.prefab
+PASS: Local reference 100000 in Assets/Prefabs/Walker.prefab
+PASS: Local reference 100000 in Assets/Prefabs/Walker.prefab
+PASS: External asset reference in Assets/Prefabs/Walker.prefab: f7f1f8bb593d472dbf2c7176cc482e1d
+PASS: MonoScript file ID
+PASS: Local reference 2601426622987097906 in Assets/Tiles/PlatformerPalette.prefab
+PASS: Local reference 8111651235538041161 in Assets/Tiles/PlatformerPalette.prefab
+PASS: Local reference 3497416428330535634 in Assets/Tiles/PlatformerPalette.prefab
+PASS: Local reference 3038457401328561293 in Assets/Tiles/PlatformerPalette.prefab
+PASS: Local reference 7058633362738414130 in Assets/Tiles/PlatformerPalette.prefab
+PASS: Local reference 3038457401328561293 in Assets/Tiles/PlatformerPalette.prefab
+PASS: External asset reference in Assets/Tiles/PlatformerPalette.prefab: 9b811b571b4c45940b2ad633b180c068
+PASS: External serialized object reference: Assets\Tiles\tile_0000.asset
+PASS: External asset reference in Assets/Tiles/PlatformerPalette.prefab: 2684fe9bbd2862d45a7519bb1f19d310
+PASS: External serialized object reference: Assets\Tiles\tile_0001.asset
+PASS: External asset reference in Assets/Tiles/PlatformerPalette.prefab: adcc55e632d00d34bbce677bbedd256f
+PASS: External serialized object reference: Assets\Tiles\tile_0002.asset
+PASS: External asset reference in Assets/Tiles/PlatformerPalette.prefab: 9f09176b940fd0349bca5c80fc2d670d
+PASS: External serialized object reference: Assets\Tiles\tile_0003.asset
+PASS: External asset reference in Assets/Tiles/PlatformerPalette.prefab: 03b9ddfb74407f742bfc7a68a1b81d7a
+PASS: External serialized object reference: Assets\Tiles\tile_0009.asset
+PASS: External asset reference in Assets/Tiles/PlatformerPalette.prefab: d43b91858b839174ebf5b02a9d12e0d8
+PASS: External serialized object reference: Assets\Tiles\tile_0012.asset
+PASS: External asset reference in Assets/Tiles/PlatformerPalette.prefab: 4e2883ccb801ddc48910b989e7df9a79
+PASS: External serialized object reference: Assets\Tiles\tile_0013.asset
+PASS: External asset reference in Assets/Tiles/PlatformerPalette.prefab: 52d33eb6f7f358a4f84016cb37c59d20
+PASS: External serialized object reference: Assets\Tiles\tile_0014.asset
+PASS: External asset reference in Assets/Tiles/PlatformerPalette.prefab: b70bd1e3ea365d84dacf5978c9d8d431
+PASS: External serialized object reference: Assets\Tiles\tile_0015.asset
+PASS: External asset reference in Assets/Tiles/PlatformerPalette.prefab: 9cc96f8cb4e45d844baf96dca404afc1
+PASS: Sprite file ID reference: Assets\Sprites\Tiles\tile_0000.png
+PASS: External asset reference in Assets/Tiles/PlatformerPalette.prefab: 6ba27860b3abe2d4cbb65b04349396f6
+PASS: Sprite file ID reference: Assets\Sprites\Tiles\tile_0001.png
+PASS: External asset reference in Assets/Tiles/PlatformerPalette.prefab: 56d73dbf24a7c4e4f8ba188ff9d1cb0c
+PASS: Sprite file ID reference: Assets\Sprites\Tiles\tile_0002.png
+PASS: External asset reference in Assets/Tiles/PlatformerPalette.prefab: 593186413f11b0f4e9efc4decedefc38
+PASS: Sprite file ID reference: Assets\Sprites\Tiles\tile_0003.png
+PASS: External asset reference in Assets/Tiles/PlatformerPalette.prefab: 00b88eb84cde2c843be6f9fda391da36
+PASS: Sprite file ID reference: Assets\Sprites\Tiles\tile_0009.png
+PASS: External asset reference in Assets/Tiles/PlatformerPalette.prefab: 38da44d2634e2dd4ba47cd5bcef8e223
+PASS: Sprite file ID reference: Assets\Sprites\Tiles\tile_0012.png
+PASS: External asset reference in Assets/Tiles/PlatformerPalette.prefab: e454a6ed4dd79d544996d71e8708f455
+PASS: Sprite file ID reference: Assets\Sprites\Tiles\tile_0013.png
+PASS: External asset reference in Assets/Tiles/PlatformerPalette.prefab: 96a4781b5c549ed40a8b0a2b6bb56eda
+PASS: Sprite file ID reference: Assets\Sprites\Tiles\tile_0014.png
+PASS: External asset reference in Assets/Tiles/PlatformerPalette.prefab: fd95942a0d8741c4694f4ca6f0410815
+PASS: Sprite file ID reference: Assets\Sprites\Tiles\tile_0015.png
+PASS: Local reference 3038457401328561293 in Assets/Tiles/PlatformerPalette.prefab
+PASS: Local reference 7058633362738414130 in Assets/Tiles/PlatformerPalette.prefab
+PASS: Local reference 5814257282186818823 in Assets/Tiles/PlatformerPalette.prefab
+PASS: Local reference 7913550910497012611 in Assets/Tiles/PlatformerPalette.prefab
+PASS: Local reference 2601426622987097906 in Assets/Tiles/PlatformerPalette.prefab
+PASS: Local reference 7913550910497012611 in Assets/Tiles/PlatformerPalette.prefab
+PASS: Three scene roots: camera, grid, connected walker
+PASS: Connected walker instance
+PASS: Prefab overrides contain placement only
+PASS: Walker feet at y -2
+PASS: Orthographic camera size 5 and solid background
+PASS: One-unit rectangular grid
+PASS: 14 distinct ground cells
+PASS: Ten-cell floor at y -3
+PASS: Two-crate wall at each end
+PASS: Ground reference counts: m_TileAssetArray
+PASS: Ground reference counts: m_TileSpriteArray
+PASS: Ground reference counts: m_TileMatrixArray
+PASS: Ground reference counts: m_TileColorArray
+PASS: Ground renderer on Level
+PASS: Ground uses unlit sprite material
+PASS: Static ground body
+PASS: Tile collider contributes with Merge
+PASS: Composite regenerates synchronously
+PASS: Palette holds exactly nine course tiles
+PASS: Native palette settings preserved
+PASS: Dynamic walker with zero gravity and damping
+PASS: Continuous, Interpolate, Freeze Rotation Z
+PASS: Exact walker box size and offset
+PASS: Walker on Characters sorting layer
+PASS: Walker uses astronaut frame 0
+PASS: Speed 6 serialized on prefab
+PASS: 27 named frames
+PASS: 24x24 frames with bottom pivots
+PASS: Character sheet Multiple, PPU18, FullRect, Point, no compression
+PASS: 180 terrain tiles
+PASS: Terrain import: tile_0000.png
+PASS: Terrain import: tile_0001.png
+PASS: Terrain import: tile_0002.png
+PASS: Terrain import: tile_0003.png
+PASS: Terrain import: tile_0004.png
+PASS: Terrain import: tile_0005.png
+PASS: Terrain import: tile_0006.png
+PASS: Terrain import: tile_0007.png
+PASS: Terrain import: tile_0008.png
+PASS: Terrain import: tile_0009.png
+PASS: Terrain import: tile_0010.png
+PASS: Terrain import: tile_0011.png
+PASS: Terrain import: tile_0012.png
+PASS: Terrain import: tile_0013.png
+PASS: Terrain import: tile_0014.png
+PASS: Terrain import: tile_0015.png
+PASS: Terrain import: tile_0016.png
+PASS: Terrain import: tile_0017.png
+PASS: Terrain import: tile_0018.png
+PASS: Terrain import: tile_0019.png
+PASS: Terrain import: tile_0020.png
+PASS: Terrain import: tile_0021.png
+PASS: Terrain import: tile_0022.png
+PASS: Terrain import: tile_0023.png
+PASS: Terrain import: tile_0024.png
+PASS: Terrain import: tile_0025.png
+PASS: Terrain import: tile_0026.png
+PASS: Terrain import: tile_0027.png
+PASS: Terrain import: tile_0028.png
+PASS: Terrain import: tile_0029.png
+PASS: Terrain import: tile_0030.png
+PASS: Terrain import: tile_0031.png
+PASS: Terrain import: tile_0032.png
+PASS: Terrain import: tile_0033.png
+PASS: Terrain import: tile_0034.png
+PASS: Terrain import: tile_0035.png
+PASS: Terrain import: tile_0036.png
+PASS: Terrain import: tile_0037.png
+PASS: Terrain import: tile_0038.png
+PASS: Terrain import: tile_0039.png
+PASS: Terrain import: tile_0040.png
+PASS: Terrain import: tile_0041.png
+PASS: Terrain import: tile_0042.png
+PASS: Terrain import: tile_0043.png
+PASS: Terrain import: tile_0044.png
+PASS: Terrain import: tile_0045.png
+PASS: Terrain import: tile_0046.png
+PASS: Terrain import: tile_0047.png
+PASS: Terrain import: tile_0048.png
+PASS: Terrain import: tile_0049.png
+PASS: Terrain import: tile_0050.png
+PASS: Terrain import: tile_0051.png
+PASS: Terrain import: tile_0052.png
+PASS: Terrain import: tile_0053.png
+PASS: Terrain import: tile_0054.png
+PASS: Terrain import: tile_0055.png
+PASS: Terrain import: tile_0056.png
+PASS: Terrain import: tile_0057.png
+PASS: Terrain import: tile_0058.png
+PASS: Terrain import: tile_0059.png
+PASS: Terrain import: tile_0060.png
+PASS: Terrain import: tile_0061.png
+PASS: Terrain import: tile_0062.png
+PASS: Terrain import: tile_0063.png
+PASS: Terrain import: tile_0064.png
+PASS: Terrain import: tile_0065.png
+PASS: Terrain import: tile_0066.png
+PASS: Terrain import: tile_0067.png
+PASS: Terrain import: tile_0068.png
+PASS: Terrain import: tile_0069.png
+PASS: Terrain import: tile_0070.png
+PASS: Terrain import: tile_0071.png
+PASS: Terrain import: tile_0072.png
+PASS: Terrain import: tile_0073.png
+PASS: Terrain import: tile_0074.png
+PASS: Terrain import: tile_0075.png
+PASS: Terrain import: tile_0076.png
+PASS: Terrain import: tile_0077.png
+PASS: Terrain import: tile_0078.png
+PASS: Terrain import: tile_0079.png
+PASS: Terrain import: tile_0080.png
+PASS: Terrain import: tile_0081.png
+PASS: Terrain import: tile_0082.png
+PASS: Terrain import: tile_0083.png
+PASS: Terrain import: tile_0084.png
+PASS: Terrain import: tile_0085.png
+PASS: Terrain import: tile_0086.png
+PASS: Terrain import: tile_0087.png
+PASS: Terrain import: tile_0088.png
+PASS: Terrain import: tile_0089.png
+PASS: Terrain import: tile_0090.png
+PASS: Terrain import: tile_0091.png
+PASS: Terrain import: tile_0092.png
+PASS: Terrain import: tile_0093.png
+PASS: Terrain import: tile_0094.png
+PASS: Terrain import: tile_0095.png
+PASS: Terrain import: tile_0096.png
+PASS: Terrain import: tile_0097.png
+PASS: Terrain import: tile_0098.png
+PASS: Terrain import: tile_0099.png
+PASS: Terrain import: tile_0100.png
+PASS: Terrain import: tile_0101.png
+PASS: Terrain import: tile_0102.png
+PASS: Terrain import: tile_0103.png
+PASS: Terrain import: tile_0104.png
+PASS: Terrain import: tile_0105.png
+PASS: Terrain import: tile_0106.png
+PASS: Terrain import: tile_0107.png
+PASS: Terrain import: tile_0108.png
+PASS: Terrain import: tile_0109.png
+PASS: Terrain import: tile_0110.png
+PASS: Terrain import: tile_0111.png
+PASS: Terrain import: tile_0112.png
+PASS: Terrain import: tile_0113.png
+PASS: Terrain import: tile_0114.png
+PASS: Terrain import: tile_0115.png
+PASS: Terrain import: tile_0116.png
+PASS: Terrain import: tile_0117.png
+PASS: Terrain import: tile_0118.png
+PASS: Terrain import: tile_0119.png
+PASS: Terrain import: tile_0120.png
+PASS: Terrain import: tile_0121.png
+PASS: Terrain import: tile_0122.png
+PASS: Terrain import: tile_0123.png
+PASS: Terrain import: tile_0124.png
+PASS: Terrain import: tile_0125.png
+PASS: Terrain import: tile_0126.png
+PASS: Terrain import: tile_0127.png
+PASS: Terrain import: tile_0128.png
+PASS: Terrain import: tile_0129.png
+PASS: Terrain import: tile_0130.png
+PASS: Terrain import: tile_0131.png
+PASS: Terrain import: tile_0132.png
+PASS: Terrain import: tile_0133.png
+PASS: Terrain import: tile_0134.png
+PASS: Terrain import: tile_0135.png
+PASS: Terrain import: tile_0136.png
+PASS: Terrain import: tile_0137.png
+PASS: Terrain import: tile_0138.png
+PASS: Terrain import: tile_0139.png
+PASS: Terrain import: tile_0140.png
+PASS: Terrain import: tile_0141.png
+PASS: Terrain import: tile_0142.png
+PASS: Terrain import: tile_0143.png
+PASS: Terrain import: tile_0144.png
+PASS: Terrain import: tile_0145.png
+PASS: Terrain import: tile_0146.png
+PASS: Terrain import: tile_0147.png
+PASS: Terrain import: tile_0148.png
+PASS: Terrain import: tile_0149.png
+PASS: Terrain import: tile_0150.png
+PASS: Terrain import: tile_0151.png
+PASS: Terrain import: tile_0152.png
+PASS: Terrain import: tile_0153.png
+PASS: Terrain import: tile_0154.png
+PASS: Terrain import: tile_0155.png
+PASS: Terrain import: tile_0156.png
+PASS: Terrain import: tile_0157.png
+PASS: Terrain import: tile_0158.png
+PASS: Terrain import: tile_0159.png
+PASS: Terrain import: tile_0160.png
+PASS: Terrain import: tile_0161.png
+PASS: Terrain import: tile_0162.png
+PASS: Terrain import: tile_0163.png
+PASS: Terrain import: tile_0164.png
+PASS: Terrain import: tile_0165.png
+PASS: Terrain import: tile_0166.png
+PASS: Terrain import: tile_0167.png
+PASS: Terrain import: tile_0168.png
+PASS: Terrain import: tile_0169.png
+PASS: Terrain import: tile_0170.png
+PASS: Terrain import: tile_0171.png
+PASS: Terrain import: tile_0172.png
+PASS: Terrain import: tile_0173.png
+PASS: Terrain import: tile_0174.png
+PASS: Terrain import: tile_0175.png
+PASS: Terrain import: tile_0176.png
+PASS: Terrain import: tile_0177.png
+PASS: Terrain import: tile_0178.png
+PASS: Terrain import: tile_0179.png
+PASS: Course sorting-layer order
+PASS: Force Text
+PASS: Visible Meta Files
+PASS: Input System is active
+PASS: MovementLab is the enabled build scene
+PASS: Project-wide input asset reference
+PASS: Move and Jump actions present
+PASS: Required movement bindings
+PASS: Controller uses the lesson lifecycle and preservation line
+PASS: No premature gravity/jump code or legacy input
+PASS: No temporary construction script in game assets
+
+1154 file-level checks passed.
+NOT RUN: Unity import, real Unity C# compilation, rendering, or Play Mode movement/collision checks.
