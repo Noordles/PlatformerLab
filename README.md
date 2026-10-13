@@ -1,14 +1,8 @@
 # PlatformerLab
 
-My Unity project for the ASE Multimedia lab. This checkpoint follows the course through **Exercise 5: A walker that walks**, ready to begin week 3.
+My Unity project for the ASE Multimedia lab. This checkpoint follows the course through
 
 ## Open and play
-
-On the classroom PC, clone the repository or use **Code → Download ZIP** on [GitHub](https://github.com/Noordles/PlatformerLab). Extract the ZIP into a local folder outside OneDrive. In Unity Hub, use **Add project from disk** and select the folder containing `Assets`, `Packages`, and `ProjectSettings`. Use the classroom's Unity **6000.6.x** editor. The project retains its original version record, `6000.6.0f1`.
-
-Open `Assets/Scenes/MovementLab.unity`, press Play, and click the Game view. No Unity installation on my laptop is required to download this checkpoint.
-
-On the classroom PC, also check **Edit → Preferences → External Tools → External Script Editor** and select **Visual Studio [18.x] / Visual Studio 2026**, as Exercise 2 specifies. This is a per-computer Unity preference and is not stored in GitHub.
 
 - **A / D** or **Left / Right arrows**: walk.
 - A gamepad's left stick also controls movement through the template's `Player/Move` action.
@@ -41,20 +35,6 @@ The setup guide asks for pristine asset packs **outside** the Unity project. On 
 - ImpactSounds
 - MusicJingles
 
-Only the required artwork is imported at this checkpoint. Audio remains staged for later lessons. These outside folders are local source material and are not included in this Git repository. **Everything needed for the week 2 scene is included in GitHub**, so the classroom PC does not need this local `CourseAssets` folder to open it. See [CREDITS.md](CREDITS.md) for asset sources and licensing.
-
-## Verification and first classroom check
-
-The checkpoint was checked against the exercise instructions at the file level: Unity YAML syntax, scene and prefab object references, asset GUIDs, the 27 frame definitions, terrain import settings, input bindings, physics settings, and build-scene assignment. The report is in [Verification/week-2-file-checks.txt](Verification/week-2-file-checks.txt).
-
-**Unity compilation and Play Mode were not run on this laptop.** On the classroom PC, after import finishes:
-
-1. Open `MovementLab` and press Play. The Console should report `Awake: rb=True, sr=True, move=True` without errors.
-2. Click the Game view, press A and D or the arrow keys, and check movement and facing. Releasing the keys should stop movement and keep the last facing.
-3. Walk into each crate wall and confirm it stops the walker. The walker should remain at floor height because gravity is 0.
-4. Stop Play before changing anything. Begin [Exercise 6: A walker that falls](https://docs.lucianvilcea.ro/multimedia/exercise-6-a-walker-that-falls) for week 3.
-
-## Git workflow
 
 Run these from the repository folder. Save the Unity scene and project before committing.
 
@@ -66,7 +46,6 @@ git commit -m "Describe the exercise you completed"
 git push
 ```
 
-Generated Unity caches, logs, build output, and IDE files are ignored. Pulls use rebase in this local checkout. The repository remains **public**, by my choice; the course's Exercise 1 suggests private visibility.
 
 ## References
 
